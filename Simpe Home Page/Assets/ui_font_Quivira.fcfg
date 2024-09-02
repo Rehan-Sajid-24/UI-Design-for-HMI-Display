@@ -1,0 +1,17 @@
+{
+  "codename": "Quivira",
+  "ttf_path": "/assets/Quivira.otf",
+  "bin_path": "/assets\\ui_font_Quivira.bin",
+  "c_path": "/assets\\ui_font_Quivira.c",
+  "cfg_path": "/assets\\ui_font_Quivira.fcfg",
+  "size": 100,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f",
+    " 0xB0"
+  ],
+  "symbols": "°",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
