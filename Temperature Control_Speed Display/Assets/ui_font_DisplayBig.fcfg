@@ -1,0 +1,16 @@
+{
+  "codename": "DisplayBig",
+  "ttf_path": "/assets/Open 24 Display St.ttf",
+  "bin_path": "/assets\\ui_font_DisplayBig.bin",
+  "c_path": "/assets\\ui_font_DisplayBig.c",
+  "cfg_path": "/assets\\ui_font_DisplayBig.fcfg",
+  "size": 40,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

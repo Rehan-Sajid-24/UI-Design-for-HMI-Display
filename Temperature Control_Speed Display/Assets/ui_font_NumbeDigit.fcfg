@@ -1,0 +1,16 @@
+{
+  "codename": "NumbeDigit",
+  "ttf_path": "/assets/digital-7.ttf",
+  "bin_path": "/assets\\ui_font_NumbeDigit.bin",
+  "c_path": "/assets\\ui_font_NumbeDigit.c",
+  "cfg_path": "/assets\\ui_font_NumbeDigit.fcfg",
+  "size": 80,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
