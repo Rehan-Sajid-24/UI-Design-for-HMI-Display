@@ -1,0 +1,16 @@
+{
+  "codename": "UbuntuMono",
+  "ttf_path": "/assets/UbuntuMono-B.ttf",
+  "bin_path": "/assets\\ui_font_UbuntuMono.bin",
+  "c_path": "/assets\\ui_font_UbuntuMono.c",
+  "cfg_path": "/assets\\ui_font_UbuntuMono.fcfg",
+  "size": 90,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
